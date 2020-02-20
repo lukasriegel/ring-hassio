@@ -22,7 +22,7 @@
     "webui": "http://[HOST]:[PORT:3000]/index.html",
     "options": {
         "ring_username": "your_username",
-        "ring_username": "your_username",
+        "ring_password": "your_password",
         "ring_refresh_token": "your_refresh_token",
         "port": 3000
     },
